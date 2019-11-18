@@ -370,7 +370,7 @@ http://iptv4.premium-stv.com:8000/live/sourceesppro2/B8YHWPh2j8/66.ts
 #EXTINF:-1,|ES| M ACCION FHD
 http://iptv4.premium-stv.com:8000/live/sourceesppro2/B8YHWPh2j8/61.ts
 
-#0 FHD
+#EXTINF:-1,0 FHD
 http://iptv4.premium-stv.com:8000/live/sourceesppro2/B8YHWPh2j8/98.ts
 
 #EXTINF:-1,|ES| LA SEXTA FHD
@@ -517,10 +517,10 @@ http://watchtv.one:8080/waUGsjQ1wM/ybEfQVbP0s/48395
 #EXTINF:-1,|ES| LALIGATV BAR FHD (1080P)
 http://watchtv.one:8080/waUGsjQ1wM/ybEfQVbP0s/48396
 
-#
+#EXTINF:-1,0
 http://watchtv.one:8080/waUGsjQ1wM/ybEfQVbP0s/48397
 
-# FHD (1080P)
+#EXTINF:-1,0 FHD (1080P)
 http://watchtv.one:8080/waUGsjQ1wM/ybEfQVbP0s/48398
 
 #EXTINF:-1,|ES| MOVISTAR ESTRENOS
@@ -1024,10 +1024,10 @@ http://watchtv.one:8080/waUGsjQ1wM/ybEfQVbP0s/48565
 #EXTINF:-1,|ES| MOVISTAR LA LIGA 9
 http://watchtv.one:8080/waUGsjQ1wM/ybEfQVbP0s/48566
 
-# VAMOS BAR 1
+#EXTINF:-1,VAMOS BAR 1
 http://watchtv.one:8080/waUGsjQ1wM/ybEfQVbP0s/48567
 
-# VAMOS BAR 2
+#EXTINF:-1,VAMOS BAR 2
 http://watchtv.one:8080/waUGsjQ1wM/ybEfQVbP0s/48568
 
 #EXTINF:-1,|ES| LA 1 HD (720P)
@@ -1045,7 +1045,7 @@ http://watchtv.one:8080/waUGsjQ1wM/ybEfQVbP0s/48572
 #EXTINF:-1,|ES| LA SEXTA HD (720P)
 http://watchtv.one:8080/waUGsjQ1wM/ybEfQVbP0s/48573
 
-# HD (720P)
+#EXTINF:-1,0 HD (720P)
 http://watchtv.one:8080/waUGsjQ1wM/ybEfQVbP0s/48574
 
 #EXTINF:-1,|ES| MOVISTAR ESTRENOS HD (720P)
