@@ -1,378 +1,1148 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="fox1.mx" tvg-name="MX | Fox Series HD" tvg-logo="" group-title="Cine",MX | Fox Series HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/536
+#EXTINF:-1 tvg-id="foxactionhd.mx" tvg-name="MX | Fox Action HD" tvg-logo="" group-title="Cine",MX | Fox Action HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/537
+#EXTINF:-1 tvg-id="foxmovieshd.mx" tvg-name="MX | Fox Movies" tvg-logo="" group-title="Cine",MX | Fox Movies
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/538
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Cinema" tvg-logo="" group-title="Cine",MX | Fox Cinema
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/539
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Classics" tvg-logo="" group-title="Cine",MX | Fox Classics
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/540
+#EXTINF:-1 tvg-id="" tvg-name="MX | AzCinema HD" tvg-logo="http://4.bp.blogspot.com/-uStAfYrbZKg/Wffx-gHwe8I/AAAAAAAAAKI/zyHMYDEwt8cidArT2Q1I5mzsRW0Th-WsQCK4BGAYYCw/s1600/azcinema_thumb.png" group-title="Cine",MX | AzCinema HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/541
+#EXTINF:-1 tvg-id="cinecanalhd.mx" tvg-name="MX | Cinecanal HD" tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="Cine",MX | Cinecanal HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/542
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="MX | TNT HD" tvg-logo="" group-title="Cine",MX | TNT HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/543
+#EXTINF:-1 tvg-id="goldenmultiplex.mx" tvg-name="MX | Golden HD Plus" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/GPlus.png" group-title="Cine",MX | Golden HD Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/544
+#EXTINF:-1 tvg-id="fxmovies.mx" tvg-name="MX | FX Movies HD" tvg-logo="https://entel.cl/public/logos/canales/fxm-hd.png?v=8" group-title="Entretenimiento",MX | FX Movies HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/545
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="MX | De Pelicula HD Plus" tvg-logo="https://www.altice.com.do/sites/default/files/assets/grilla_canales/img/logos/DePeliculaHD.png" group-title="Cine",MX | De Pelicula HD Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/546
+#EXTINF:-1 tvg-id="amchd.mx" tvg-name="MX | AMC HD" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="Cine",MX | AMC HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/547
+#EXTINF:-1 tvg-id="space.mx" tvg-name="MX | Space HD" tvg-logo="" group-title="Cine",MX | Space HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/548
+#EXTINF:-1 tvg-id="sundancetv.mx" tvg-name="MX | Sundance Tv HD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Logo-Sundance-TV-blanco-443x133-991212437.png" group-title="Cine",MX | Sundance Tv HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/549
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD Morbido HD" tvg-logo="" group-title="Cine",MX|HD Morbido HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/550
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="MX | Cinemax" tvg-logo="" group-title="Cine",MX | Cinemax
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/551
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="MX | Golden" tvg-logo="" group-title="Cine",MX | Golden
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/552
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="MX | Golden Edge" tvg-logo="" group-title="Cine",MX | Golden Edge
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/553
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD De Pelicula" tvg-logo="" group-title="Cine",MX|HD De Pelicula
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/554
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="MX | Studio Universal" tvg-logo="" group-title="Entretenimiento",MX | Studio Universal
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/555
+#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="MX | Eeuropa Europa" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/052/original/pic_europa.png?1522177396" group-title="Entretenimiento",MX | Eeuropa Europa
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/556
+#EXTINF:-1 tvg-id="" tvg-name="MX | Film & Arts" tvg-logo="http://fa-media.s3.amazonaws.com/web/lrzyg4sx0q_fa_share.jpg" group-title="Mundo y Cultura",MX | Film & Arts
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/557
+#EXTINF:-1 tvg-id="foxcomedyhd.mx" tvg-name="MX | Fox Comedy FHD" tvg-logo="" group-title="MEXICO FHD",MX | Fox Comedy FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/69844
 
-#EXTINF:-1,TOTALPLAY SD | DISNEY JR SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/642
-#EXTINF:-1,TOTALPLAY SD | ANIMAL PLANET
-http://23.237.122.154:25461/BUDTV/DFGHJ/641
-#EXTINF:-1,LAM MX TUDN
-http://23.237.122.154:25461/BUDTV/DFGHJ/639
-#EXTINF:-1,RAFA MX FOX FAMILY
-http://23.237.122.154:25461/BUDTV/DFGHJ/625
-#EXTINF:-1,RAFA MX DEPELICULA PLUS
-http://23.237.122.154:25461/BUDTV/DFGHJ/624
-#EXTINF:-1,RAFA MX HBO PLUS
-http://23.237.122.154:25461/BUDTV/DFGHJ/623
-#EXTINF:-1,RAFA COL RCN
-http://23.237.122.154:25461/BUDTV/DFGHJ/622
-#EXTINF:-1,TOTALPLAY SD | 52 MX SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/1
-#EXTINF:-1,RAFA MX A&E SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/2
-#EXTINF:-1,TOTALPLAY SD | A+ SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/3
-#EXTINF:-1,TOTALPLAY SD | A3 SERIES SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/4
-#EXTINF:-1,TOTALPLAY SD | ADN 40 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/5
-#EXTINF:-1,TOTALPLAY SD | AMC SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/6
-#EXTINF:-1,TOTALPLAY SD | ANIMAL PLANET SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/7
-#EXTINF:-1,TOTALPLAY SD | ANTENA 3 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/8
-#EXTINF:-1,TOTALPLAY SD | AYM SPORTS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/10
-#EXTINF:-1,TOTALPLAY SD | AZ CINEMA SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/11
-#EXTINF:-1,TOTALPLAY SD | AZ CORAZÓN SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/13
-#EXTINF:-1,TOTALPLAY SD | AZ MUNDO SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/14
-#EXTINF:-1,TOTALPLAY SD | AZTECA 7 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/15
-#EXTINF:-1,TOTALPLAY SD | AZTECA UNO SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/16
-#EXTINF:-1,TOTALPLAY SD | BABY FIRST SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/17
-#EXTINF:-1,TOTALPLAY SD | BANDAMAX SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/18
-#EXTINF:-1,TOTALPLAY SD | BLOOMBERG SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/19
-#EXTINF:-1,TOTALPLAY SD | BOOMERANG SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/20
-#EXTINF:-1,TOTALPLAY SD | CANAL 5 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/21
-#EXTINF:-1,TOTALPLAY SD | CANAL 50 JUAREZ SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/22
-#EXTINF:-1,TOTALPLAY SD | CANAL JUDICIAL SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/23
-#EXTINF:-1,TOTALPLAY SD | CANAL ONCE SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/24
-#EXTINF:-1,TOTALPLAY SD | CARACOL
-http://23.237.122.154:25461/BUDTV/DFGHJ/25
-#EXTINF:-1,TOTALPLAY SD | CARTOON NETWORK SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/26
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="Sony" tvg-logo="" group-title="MEXICO FHD",Sony
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/18
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="Warner Bros" tvg-logo="" group-title="MEXICO FHD",Warner Bros
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/19
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="Universal Channel" tvg-logo="" group-title="MEXICO FHD",Universal Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/20
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="FX" tvg-logo="" group-title="MEXICO FHD",FX
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/21
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="AyE" tvg-logo="" group-title="MEXICO FHD",AyE
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/22
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="AXN" tvg-logo="" group-title="MEXICO FHD",AXN
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/23
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="TruTV" tvg-logo="" group-title="MEXICO FHD",TruTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/24
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="Comedy Central" tvg-logo="" group-title="MEXICO FHD",Comedy Central
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/25
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="E entertainment" tvg-logo="" group-title="MEXICO FHD",E entertainment
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/33
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="Syfy" tvg-logo="" group-title="MEXICO FHD",Syfy
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/34
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="Discovery ID" tvg-logo="https://c7.uihere.com/files/58/935/607/investigation-discovery-television-show-television-channel-logo-id.jpg" group-title="MEXICO FHD",Discovery ID
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/35
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="Discovery Kids" tvg-logo="" group-title="MEXICO FHD",Discovery Kids
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/46
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="Disney Junior" tvg-logo="" group-title="MEXICO FHD",Disney Junior
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/47
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="Disney Channel" tvg-logo="" group-title="MEXICO FHD",Disney Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/49
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="Nick HD" tvg-logo="" group-title="MEXICO FHD",Nick HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/51
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="Cartoon Network" tvg-logo="" group-title="MEXICO FHD",Cartoon Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/53
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="Disney XD" tvg-logo="" group-title="MEXICO FHD",Disney XD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/54
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="Boomerang" tvg-logo="" group-title="MEXICO FHD",Boomerang
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/55
+#EXTINF:-1 tvg-id="historyhd.mx" tvg-name="History" tvg-logo="" group-title="MEXICO FHD",History
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/59
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="Discovery World HD" tvg-logo="" group-title="MEXICO FHD",Discovery World HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/61
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="Discovery Channel" tvg-logo="" group-title="MEXICO FHD",Discovery Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/62
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="Discovery Home and Health" tvg-logo="" group-title="MEXICO FHD",Discovery Home and Health
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/64
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Channel" tvg-logo="" group-title="MEXICO FHD",NatGeo Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/65
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="Lifetime" tvg-logo="" group-title="MEXICO FHD",Lifetime
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/66
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="TLC" tvg-logo="" group-title="MEXICO FHD",TLC
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/69
+#EXTINF:-1 tvg-id="fox1hd.mx" tvg-name="Fox Series FHD" tvg-logo="" group-title="MEXICO FHD",Fox Series FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/71
+#EXTINF:-1 tvg-id="foxmovieshd.mx" tvg-name="Fox Movies HD" tvg-logo="" group-title="MEXICO FHD",Fox Movies HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/73
+#EXTINF:-1 tvg-id="cinecanalhd.mx" tvg-name="Cinecanal HD" tvg-logo="" group-title="MEXICO FHD",Cinecanal HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/77
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT HD" tvg-logo="" group-title="MEXICO FHD",TNT HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/78
+#EXTINF:-1 tvg-id="goldenmultiplex.mx" tvg-name="Golden HD Plus" tvg-logo="" group-title="MEXICO FHD",Golden HD Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/79
+#EXTINF:-1 tvg-id="amchd.mx" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1200px-Amc_logo.svg.png" group-title="MEXICO FHD",AMC HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/82
+#EXTINF:-1 tvg-id="" tvg-name="Morbido HD" tvg-logo="" group-title="MEXICO FHD",Morbido HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/85
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="Cinemax FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="MEXICO FHD",Cinemax FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/86
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="Studio Universal" tvg-logo="" group-title="MEXICO FHD",Studio Universal
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/93
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="MEXICO FHD",MTV HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/129
+#EXTINF:-1 tvg-id="fxmovies.mx" tvg-name="FX Movies FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/fxm.png" group-title="MEXICO FHD",FX Movies FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/148
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="Discovery Theater" tvg-logo="" group-title="MEXICO FHD",Discovery Theater
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/249
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="Animal Planet HD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/11.png" group-title="MEXICO FHD",Animal Planet HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/250
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="Discovery Turbo" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/6.png" group-title="MEXICO FHD",Discovery Turbo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/251
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA | HGTV" tvg-logo="" group-title="USA",USA | HGTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/262
+#EXTINF:-1 tvg-id="amc.us" tvg-name="USA | AMC" tvg-logo="" group-title="USA",USA | AMC
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/263
+#EXTINF:-1 tvg-id="" tvg-name="USA | TNT" tvg-logo="" group-title="USA",USA | TNT
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/264
+#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Channel" tvg-logo="" group-title="USA",USA | Discovery Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/265
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="USA | BBC America" tvg-logo="" group-title="USA",USA | BBC America
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/266
+#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery ID" tvg-logo="" group-title="USA",USA | Discovery ID
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/267
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="USA | E!" tvg-logo="" group-title="USA",USA | E!
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/268
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Caracol" tvg-logo="" group-title="Colombia",Latino | Caracol
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/271
+#EXTINF:-1 tvg-id="unimas.us" tvg-name="USA | Unimas" tvg-logo="" group-title="Latinos USA",USA | Unimas
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/273
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Win Sports" tvg-logo="" group-title="Sports",Latino | Win Sports
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/274
+#EXTINF:-1 tvg-id="" tvg-name="PR | Mega TV" tvg-logo="" group-title="Puerto Rico",PR | Mega TV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/275
+#EXTINF:-1 tvg-id="" tvg-name="PR | Punto 2" tvg-logo="" group-title="Puerto Rico",PR | Punto 2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/277
+#EXTINF:-1 tvg-id="" tvg-name="PR | WIPR" tvg-logo="" group-title="Puerto Rico",PR | WIPR
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/279
+#EXTINF:-1 tvg-id="" tvg-name="PR | WAPA 2" tvg-logo="" group-title="Puerto Rico",PR | WAPA 2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/281
+#EXTINF:-1 tvg-id="aande.us" tvg-name="USA | A&E" tvg-logo="" group-title="USA",USA | A&E
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/282
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="USA | ACC Network" tvg-logo="" group-title="Sports",USA | ACC Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/285
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="USA | American Heroes Channel" tvg-logo="" group-title="USA",USA | American Heroes Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/286
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="USA | Animal Planet" tvg-logo="" group-title="USA",USA | Animal Planet
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/287
+#EXTINF:-1 tvg-id="" tvg-name="USA | BET" tvg-logo="" group-title="Music",USA | BET
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/289
+#EXTINF:-1 tvg-id="bether.us" tvg-name="USA | BET Her" tvg-logo="" group-title="Music",USA | BET Her
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/290
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="USA | Big Ten Network" tvg-logo="" group-title="Sports",USA | Big Ten Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/291
+#EXTINF:-1 tvg-id="" tvg-name="USA | Boomerang" tvg-logo="" group-title="USA",USA | Boomerang
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/292
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="USA | Bravo" tvg-logo="" group-title="USA",USA | Bravo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/293
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cartoon Network" tvg-logo="" group-title="Kids USA",USA | Cartoon Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/294
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="USA | Cinemax East" tvg-logo="" group-title="Movies",USA | Cinemax East
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/297
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA | CMT" tvg-logo="" group-title="Music",USA | CMT
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/299
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA | CNBC" tvg-logo="" group-title="Noticias",USA | CNBC
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/300
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA | CNN" tvg-logo="" group-title="Noticias",USA | CNN
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/301
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="USA | Comedy Central" tvg-logo="" group-title="USA",USA | Comedy Central
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/302
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="USA | Cooking Channel" tvg-logo="" group-title="USA",USA | Cooking Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/303
+#EXTINF:-1 tvg-id="cozitvla.us" tvg-name="USA | Cozi TV" tvg-logo="" group-title="USA",USA | Cozi TV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/304
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="USA | Destination America" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg?w=1000" group-title="USA",USA | Destination America
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/307
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="USA | Discovery Family" tvg-logo="" group-title="USA",USA | Discovery Family
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/308
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA | Discovery Life" tvg-logo="" group-title="USA",USA | Discovery Life
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/309
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA | Discovery Science" tvg-logo="" group-title="USA",USA | Discovery Science
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/310
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="USA | Disney Channel" tvg-logo="" group-title="Kids USA",USA | Disney Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/311
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA | Disney Jr" tvg-logo="" group-title="Kids USA",USA | Disney Jr
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/312
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="USA | Disney XD" tvg-logo="" group-title="Kids USA",USA | Disney XD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/313
+#EXTINF:-1 tvg-id="doityourselfnetwork.us" tvg-name="USA | DIY" tvg-logo="" group-title="USA",USA | DIY
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/314
+#EXTINF:-1 tvg-id="epix.us" tvg-name="USA | EPIX" tvg-logo="" group-title="Movies",USA | EPIX
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/316
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="USA | EPIX 2" tvg-logo="" group-title="Movies",USA | EPIX 2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/317
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA | EPIX HITS" tvg-logo="" group-title="Movies",USA | EPIX HITS
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/318
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN" tvg-logo="" group-title="Sports",USA | ESPN
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/319
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="USA | ESPN News" tvg-logo="" group-title="Sports",USA | ESPN News
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/321
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="USA | ESPN U" tvg-logo="https://img2.freepng.es/20180424/xrq/kisspng-espnu-television-channel-logo-news-reporter-5adeb6747b9960.9762614615245451405063.jpg" group-title="Sports",USA | ESPN U
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/322
+#EXTINF:-1 tvg-id="bloombergtv.mx" tvg-name="MX | Bloomberg" tvg-logo="https://targetjobs.co.uk/sites/targetjobs.co.uk/files/public/field_ad_org_logo/bloomberg-logo.jpg" group-title="Noticias",MX | Bloomberg
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/571
+#EXTINF:-1 tvg-id="" tvg-name="USA | BBC World New" tvg-logo="" group-title="Noticias",USA | BBC World New
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/572
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Spain",TVE
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/573
+#EXTINF:-1 tvg-id="" tvg-name="Antena3" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_antena3_despues.jpg" group-title="Spain",Antena3
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/574
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD MTV Live HD" tvg-logo="" group-title="Music",MX|HD MTV Live HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/575
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="MX | Telehit HD Plus" tvg-logo="http://televisa-networks.com/wp-content/uploads/2017/08/televisa-networks-telehit-logo-1.jpg" group-title="Music",MX | Telehit HD Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/576
+#EXTINF:-1 tvg-id="" tvg-name="MX | VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="Music",MX | VH1 HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/577
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="MX|HD AzClic HD" tvg-logo="" group-title="Nacional MX",MX|HD AzClic HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/578
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MX | MTV HD" tvg-logo="https://panelinferno.com/posters/1574998627426.png" group-title="Music",MX | MTV HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/579
+#EXTINF:-1 tvg-id="" tvg-name="MX | MTV Hits" tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg" group-title="Music",MX | MTV Hits
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/580
+#EXTINF:-1 tvg-id="" tvg-name="MX | VH1 Classics" tvg-logo="https://cdn.sincroguia.tv/uploads/images/v/h/1/xvh1-classic.jpg.pagespeed.ic.dvvgXfEK_s.jpg" group-title="Music",MX | VH1 Classics
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/581
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MX | Bandamax" tvg-logo="" group-title="Music",MX | Bandamax
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/582
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX | AzCorazon" tvg-logo="" group-title="Nacional MX",MX | AzCorazon
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/584
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD Teleritmo" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/teleritmo.png" group-title="Music",MX|HD Teleritmo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/588
+#EXTINF:-1 tvg-id="" tvg-name="MX | Baby First" tvg-logo="https://img2.freepng.es/20180925/vb/kisspng-babyfirsttv-clip-art-babytv-smile-little-rowland-buggies-what-the-bugs-are-watching-5baa45004fca31.0266491815378854403268.jpg" group-title="Kids Latinos",MX | Baby First
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/589
+#EXTINF:-1 tvg-id="" tvg-name="A3series" tvg-logo="https://atreseries.atresmedia.com/public/img/atreseries/apple-touch-icon-180x180.png" group-title="Spain",A3series
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/590
+#EXTINF:-1 tvg-id="" tvg-name="MX | Nick2" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/infantil/nick-2.png" group-title="Kids Latinos",MX | Nick2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/591
+#EXTINF:-1 tvg-id="" tvg-name="MX | Havoc" tvg-logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="Sports",MX | Havoc
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/592
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="MX | Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Entretenimiento",MX | Discovery Turbo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/593
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="MX | Hbo FAM" tvg-logo="https://panelinferno.com/posters/1574190634552.png" group-title="Cine",MX | Hbo FAM
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/595
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="MX|HD Azteca Uno HD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/19.png" group-title="Nacional MX",MX|HD Azteca Uno HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/471
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="MX | Canal De Las Estrellas" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/16.png" group-title="Nacional MX",MX | Canal De Las Estrellas
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/472
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="MX | ImagenTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Imagen_TV_logo.png" group-title="Nacional MX",MX | ImagenTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/473
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX | ForoTv" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/4.png" group-title="Nacional MX",MX | ForoTv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/474
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX | Canal 5" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/21.png" group-title="Nacional MX",MX | Canal 5
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/475
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX | Azteca7" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/3.png" group-title="Nacional MX",MX | Azteca7
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/476
+#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="MX|HD GalaTV HD" tvg-logo="" group-title="Nacional MX",MX|HD GalaTV HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/477
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="MX | Canal 11 HD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/39.png" group-title="Nacional MX",MX | Canal 11 HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/478
+#EXTINF:-1 tvg-id="canalmexiquense.mx" tvg-name="MX|HD Mexiquense" tvg-logo="" group-title="Nacional MX",MX|HD Mexiquense
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/480
+#EXTINF:-1 tvg-id="ingeniotv.mx" tvg-name="MX | Ingenio Tv" tvg-logo="http://200.77.160.48:8090/izzi/v3/img/dummy-img/channels/INGENIO_TV.png" group-title="Mundo y Cultura",MX | Ingenio Tv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/481
+#EXTINF:-1 tvg-id="teleformula.mx" tvg-name="MX | Teleformula" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/5.png" group-title="Nacional MX",MX | Teleformula
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/482
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD Multimedios" tvg-logo="" group-title="Nacional MX",MX|HD Multimedios
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/483
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="MX | Fox Channel" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/ef/49/27ef4968-d0b3-bc91-013c-4c8c41c60129/Appicon-0-1x_U007emarketing-0-85-220-0-7.png/1200x630wa.png" group-title="Entretenimiento",MX | Fox Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/484
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="MX | Sony" tvg-logo="" group-title="Entretenimiento",MX | Sony
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/485
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD Warner Bros" tvg-logo="" group-title="Entretenimiento",MX|HD Warner Bros
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/486
 
-#EXTINF:-1,TOTALPLAY SD | CINELATINO SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/28
-#EXTINF:-1,TOTALPLAY SD | CINEMAX SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/29
-#EXTINF:-1,TOTALPLAY SD | CNN EN ESPAÑOL SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/30
-#EXTINF:-1,TOTALPLAY SD | CNN INTERNACIONAL SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/31
-#EXTINF:-1,TOTALPLAY SD | CNN USA SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/32
-#EXTINF:-1,TOTALPLAY SD | COMEDY CENTRAL SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/33
-#EXTINF:-1,TOTALPLAY SD | CONGRESO DE LA UNIÓN SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/34
-#EXTINF:-1,TOTALPLAY SD | DE PELÍCULA SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/35
-#EXTINF:-1,TOTALPLAY SD | DISCOVERY CHANNEL SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/36
-#EXTINF:-1,TOTALPLAY SD | DISCOVERY CIVILIZATION SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/37
-#EXTINF:-1,TOTALPLAY SD | DISCOVERY HOME & HEALTH SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/38
-#EXTINF:-1,TOTALPLAY SD | DISCOVERY THEATER SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/41
-#EXTINF:-1,TOTALPLAY SD | DISCOVERY TLC SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/42
-#EXTINF:-1,TOTALPLAY SD | DISCOVERY TURBO SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/43
-#EXTINF:-1,TOTALPLAY SD | DISCOVERY WORLD SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/44
-#EXTINF:-1,TOTALPLAY SD | DISNEY CHANNEL SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/45
-#EXTINF:-1,RAFA MX DISNEY JR SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/46
-#EXTINF:-1,TOTALPLAY SD | DISCOVERY KIDS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/39
-#EXTINF:-1,TOTALPLAY SD | DISCOVERY SCIENCE SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/40
-#EXTINF:-1,TOTALPLAY SD | DISNEY XD SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/47
-#EXTINF:-1,TOTALPLAY SD | DISTRITO COMEDIA SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/48
-#EXTINF:-1,TOTALPLAY SD | DW SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/49
-#EXTINF:-1,TOTALPLAY SD | E! SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/50
-#EXTINF:-1,TOTALPLAY SD | EL GOURMET SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/51
-#EXTINF:-1,TOTALPLAY SD | ESPN 1 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/52
-#EXTINF:-1,TOTALPLAY SD | ESPN 2 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/53
-#EXTINF:-1,TOTALPLAY SD | ESPN 3 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/54
-#EXTINF:-1,TOTALPLAY SD | ESPN PLUS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/55
-#EXTINF:-1,TOTALPLAY SD | ESPN SEC SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/56
-#EXTINF:-1,TOTALPLAY SD | ESPN U SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/57
-#EXTINF:-1,TOTALPLAY SD | ESTRELLA TV
-http://23.237.122.154:25461/BUDTV/DFGHJ/58
-#EXTINF:-1,TOTALPLAY SD | FILM & ARTS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/59
-#EXTINF:-1,TOTALPLAY SD | FOOD NETWORK SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/60
-#EXTINF:-1,TOTALPLAY SD | FORO TV SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/61
-#EXTINF:-1,RAFA MX FOX LIFE SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/62
-#EXTINF:-1,TOTALPLAY SD | FOX PREMIUM ACTION SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/63
-#EXTINF:-1,TOTALPLAY SD | FOX PREMIUM CINEMA SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/64
-#EXTINF:-1,TOTALPLAY SD | FOX PREMIUM CLASSICS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/65
-#EXTINF:-1,TOTALPLAY SD | FOX PREMIUM MOVIES SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/66
-#EXTINF:-1,TOTALPLAY SD | FOX PREMIUM SERIES SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/67
-#EXTINF:-1,TOTALPLAY SD | FOX SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/68
-#EXTINF:-1,TOTALPLAY SD | FOX SPORTS 1 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/69
-#EXTINF:-1,TOTALPLAY SD | FOX SPORTS 2 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/70
-#EXTINF:-1,TOTALPLAY SD | FOX SPORTS 3 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/71
-#EXTINF:-1,TOTALPLAY SD | FRANCE 24 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/72
-#EXTINF:-1,TOTALPLAY SD | FX SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/73
-#EXTINF:-1,TOTALPLAY SD | GALA TV SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/75
-#EXTINF:-1,TOTALPLAY SD | GARAGE TV SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/76
-#EXTINF:-1,TOTALPLAY SD | GLITZ SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/77
-#EXTINF:-1,TOTALPLAY SD | GOLDEN EDGE SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/78
-#EXTINF:-1,TOTALPLAY SD | GOLDEN SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/79
-#EXTINF:-1,TOTALPLAY SD | GOLF LATINOAMERICA SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/80
-#EXTINF:-1,TOTALPLAY SD | H2
-http://23.237.122.154:25461/BUDTV/DFGHJ/81
-#EXTINF:-1,TOTALPLAY SD | FXM SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/74
-#EXTINF:-1,TOTALPLAY SD | HAVOC SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/82
-#EXTINF:-1,TOTALPLAY SD | HBO 1
-http://23.237.122.154:25461/BUDTV/DFGHJ/83
-#EXTINF:-1,TOTALPLAY SD | HBO 2
-http://23.237.122.154:25461/BUDTV/DFGHJ/84
-#EXTINF:-1,TOTALPLAY SD | HBO FAMILY
-http://23.237.122.154:25461/BUDTV/DFGHJ/85
-#EXTINF:-1,TOTALPLAY SD | HBO SIGNATURE
-http://23.237.122.154:25461/BUDTV/DFGHJ/86
-#EXTINF:-1,TOTALPLAY SD | HISTORY SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/87
-#EXTINF:-1,TOTALPLAY SD | HOLA TV SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/88
-#EXTINF:-1,TOTALPLAY SD | IMAGEN TV SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/89
-#EXTINF:-1,TOTALPLAY SD | INGENIO TV SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/90
-#EXTINF:-1,TOTALPLAY SD | INVETIGATION DISCOVERY SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/91
-#EXTINF:-1,TOTALPLAY SD | ISAT SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/92
-#EXTINF:-1,TOTALPLAY SD | LAS ESTRELLAS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/93
-#EXTINF:-1,TOTALPLAY SD | LATIN AMERICA SPORTS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/94
-#EXTINF:-1,TOTALPLAY SD | LIFETIME SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/95
-#EXTINF:-1,TOTALPLAY SD | MAS CHIC SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/96
-#EXTINF:-1,TOTALPLAY SD | MAX PRIME
-http://23.237.122.154:25461/BUDTV/DFGHJ/97
-#EXTINF:-1,TOTALPLAY SD | MAX UP
-http://23.237.122.154:25461/BUDTV/DFGHJ/98
-#EXTINF:-1,TOTALPLAY SD | MEXIQUENSE SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/99
-#EXTINF:-1,TOTALPLAY SD | MILENIO TV SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/100
-#EXTINF:-1,TOTALPLAY SD | MORBIDO TV SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/101
-#EXTINF:-1,TOTALPLAY SD | MTV HITS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/102
-#EXTINF:-1,TOTALPLAY SD I ULTRA TAINMENT
-http://23.237.122.154:25461/BUDTV/DFGHJ/164
-#EXTINF:-1,TOTALPLAY SD I ULTRA MEX
-http://23.237.122.154:25461/BUDTV/DFGHJ/163
-#EXTINF:-1,TOTALPLAY SD I ULTRA MACHO
-http://23.237.122.154:25461/BUDTV/DFGHJ/162
-#EXTINF:-1,TOTALPLAY SD I ULTRA FILM
-http://23.237.122.154:25461/BUDTV/DFGHJ/161
-#EXTINF:-1,TOTALPLAY SD I ULTRA FIESTA
-http://23.237.122.154:25461/BUDTV/DFGHJ/160
-#EXTINF:-1,TOTALPLAY SD I ULTRA FAMILIA
-http://23.237.122.154:25461/BUDTV/DFGHJ/159
-#EXTINF:-1,TOTALPLAY SD I ULTRA DOCU
-http://23.237.122.154:25461/BUDTV/DFGHJ/158
-#EXTINF:-1,TOTALPLAY SD I ULTRA CLÁSICO
-http://23.237.122.154:25461/BUDTV/DFGHJ/157
-#EXTINF:-1,TOTALPLAY SD | ULTRA CINE
-http://23.237.122.154:25461/BUDTV/DFGHJ/156
-#EXTINF:-1,TOTALPLAY SD | WOBI SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/155
-#EXTINF:-1,TOTALPLAY SD | WINSPORTS
-http://23.237.122.154:25461/BUDTV/DFGHJ/154
-#EXTINF:-1,TOTALPLAY SD | WARNER SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/153
-#EXTINF:-1,TOTALPLAY SD | VH1 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/152
-#EXTINF:-1,TOTALPLAY SD | VH1 CLASSICS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/151
-#EXTINF:-1,TOTALPLAY SD | UNIVERSAL CHANNEL SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/150
-#EXTINF:-1,RAFA MX UNICABLE SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/149
-#EXTINF:-1,TOTALPLAY SD | TVMAS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/148
-#EXTINF:-1,TOTALPLAY SD | TVE SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/147
-#EXTINF:-1,TOTALPLAY SD | TVC SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/146
-#EXTINF:-1,TOTALPLAY SD | TVC DEPORTES SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/145
-#EXTINF:-1,TOTALPLAY SD | TV4 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/144
-#EXTINF:-1,TOTALPLAY SD | TRUTV SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/143
-#EXTINF:-1,TOTALPLAY SD | TOONCAST SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/142
-#EXTINF:-1,TOTALPLAY SD | TNT SERIES SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/141
-#EXTINF:-1,TOTALPLAY SD | TNT SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/140
-#EXTINF:-1,TOTALPLAY SD | TLNOVELAS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/139
-#EXTINF:-1,TOTALPLAY SD | TELEVISA PUEBLA SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/136
-#EXTINF:-1,TOTALPLAY SD | TELEVISA MONTERREY SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/135
-#EXTINF:-1,TOTALPLAY SD | TELERITMO SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/134
-#EXTINF:-1,TOTALPLAY SD | TELEHIT SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/133
-#EXTINF:-1,TOTALPLAY SD | TELEFORMULA SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/132
-#EXTINF:-1,TOTALPLAY SD | TCM SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/131
-#EXTINF:-1,TOTALPLAY SD | TBS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/130
-#EXTINF:-1,TOTALPLAY SD | SYFY SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/129
-#EXTINF:-1,TOTALPLAY SD | SURES TV SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/128
-#EXTINF:-1,TOTALPLAY SD | SUNDANCE SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/127
-#EXTINF:-1,TOTALPLAY SD | STUDIO UNIVERSAL SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/126
-#EXTINF:-1,TOTALPLAY SD | SPACE SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/125
-#EXTINF:-1,TOTALPLAY SD | SONY SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/124
-#EXTINF:-1,TOTALPLAY SD | RT NOTICIAS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/122
-#EXTINF:-1,TOTALPLAY SD | RT ESPAÑOL SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/121
-#EXTINF:-1,TOTALPLAY SD | RITMOSON SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/119
-#EXTINF:-1,TOTALPLAY SD | RCN SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/118
-#EXTINF:-1,TOTALPLAY SD | PASIONES SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/116
-#EXTINF:-1,TOTALPLAY SD | PARAMOUNT CHANNEL SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/115
-#EXTINF:-1,TOTALPLAY SD | NTN 24 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/114
-#EXTINF:-1,TOTALPLAY SD | NICKTOONS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/113
-#EXTINF:-1,TOTALPLAY SD | NICK SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/112
-#EXTINF:-1,TOTALPLAY SD | NICK JR SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/111
-#EXTINF:-1,TOTALPLAY SD | NICK 2 SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/110
-#EXTINF:-1,TOTALPLAY SD | NATGEOKIDS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/109
-#EXTINF:-1,TOTALPLAY SD | NATGEO WILD SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/108
-#EXTINF:-1,TOTALPLAY SD | NATGEO SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/107
-#EXTINF:-1,TOTALPLAY SD | MULTIMEDIOS PLUS SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/106
-#EXTINF:-1,TOTALPLAY SD | MULTIMEDIOS MTY SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/105
-#EXTINF:-1,TOTALPLAY SD | MTV LIVE SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/103
-#EXTINF:-1,TOTALPLAY SD | MTV SD
-http://23.237.122.154:25461/BUDTV/DFGHJ/104
-#EXTINF:-1,TOTALPLAY SD | A MAS
-http://23.237.122.154:25461/BUDTV/DFGHJ/615
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="MX | FX" tvg-logo="https://img2.freepng.es/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="Entretenimiento",MX | FX
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/488
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="MX | AyE" tvg-logo="" group-title="Entretenimiento",MX | AyE
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/489
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="MX | AXN" tvg-logo="" group-title="Entretenimiento",MX | AXN
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/490
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="MX | TruTV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png" group-title="Entretenimiento",MX | TruTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/491
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD Comedy Central" tvg-logo="" group-title="Entretenimiento",MX|HD Comedy Central
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/492
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX | Unicable" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="Entretenimiento",MX | Unicable
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/493
+#EXTINF:-1 tvg-id="" tvg-name="MX | HolaTV" tvg-logo="https://www.himgs.com/imagenes/hola/comunes/hola-2017.gif" group-title="Entretenimiento",MX | HolaTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/494
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX | MasChic" tvg-logo="https://cdn.mitvstatic.com/channels/co_mas-chic_m.png" group-title="Entretenimiento",MX | MasChic
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/495
+#EXTINF:-1 tvg-id="" tvg-name="MX | Food Network" tvg-logo="" group-title="Mundo y Cultura",MX | Food Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/496
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD TVC" tvg-logo="" group-title="Nacional MX",MX|HD TVC
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/497
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="MX | E! entertainment" tvg-logo="https://p7.hiclipart.com/preview/278/916/36/television-channel-e-television-producer-entertainment-tv-shows.jpg" group-title="Entretenimiento",MX | E! entertainment
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/500
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="MX | Syfy" tvg-logo="" group-title="Entretenimiento",MX | Syfy
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/501
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="MX | Discovery Investigation" tvg-logo="" group-title="Entretenimiento",MX | Discovery Investigation
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/502
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="MX | TNT Series" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="Cine",MX | TNT Series
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/503
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD El Gourmet" tvg-logo="" group-title="Entretenimiento",MX|HD El Gourmet
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/504
+#EXTINF:-1 tvg-id="" tvg-name="MX | El Garage" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Sports",MX | El Garage
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/505
+#EXTINF:-1 tvg-id="glitz.mx" tvg-name="MX | Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="Entretenimiento",MX | Glitz
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/506
+#EXTINF:-1 tvg-id="" tvg-name="MX | FoxLife" tvg-logo="" group-title="Entretenimiento",MX | FoxLife
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/507
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX | Distrito Comedia" tvg-logo="" group-title="Entretenimiento",MX | Distrito Comedia
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/508
+#EXTINF:-1 tvg-id="tbs.mx" tvg-name="MX | TBS" tvg-logo="" group-title="Entretenimiento",MX | TBS
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/509
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX | Tlnovelas" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Entretenimiento",MX | Tlnovelas
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/510
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD AzMundo" tvg-logo="" group-title="Nacional MX",MX|HD AzMundo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/511
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD BabyTv" tvg-logo="" group-title="Kids Latinos",MX|HD BabyTv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/512
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="MX | Discovery Kids" tvg-logo="https://img2.freepng.es/20180525/vju/kisspng-discovery-kids-television-channel-discovery-channe-5b0816f139f538.4318526415272568172374.jpg" group-title="Kids Latinos",MX | Discovery Kids
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/513
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="MX | Disney Junior" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney-jr_m.png" group-title="Kids Latinos",MX | Disney Junior
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/514
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="MX | Nick Junior" tvg-logo="https://cdn.mitvstatic.com/channels/gt_nick-jr_m.png" group-title="Kids Latinos",MX | Nick Junior
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/515
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="MX | Disney Channel" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/disney.png" group-title="Kids Latinos",MX | Disney Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/516
+#EXTINF:-1 tvg-id="" tvg-name="MX | NickToons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids Latinos",MX | NickToons
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/517
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="MX | Nick HD" tvg-logo="http://www.requitix.io/mypics/max/127/1270639_nick-logo-png.png" group-title="Kids Latinos",MX | Nick HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/518
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="MX | Cartoon Network" tvg-logo="" group-title="Kids Latinos",MX | Cartoon Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/519
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="MX | Disney XD" tvg-logo="" group-title="Kids Latinos",MX | Disney XD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/520
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="MX | Boomerang" tvg-logo="https://logodix.com/logo/334393.png" group-title="Kids Latinos",MX | Boomerang
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/521
+#EXTINF:-1 tvg-id="" tvg-name="MX | Tooncast" tvg-logo="https://www.pngkey.com/png/detail/272-2722817_1-tvg-logo-https-tooncast-logo-tooncast.png" group-title="Kids Latinos",MX | Tooncast
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/522
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="MX | Discovery Theater HD" tvg-logo="https://i.imgur.com/lIhYgSg.png" group-title="Mundo y Cultura",MX | Discovery Theater HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/523
+#EXTINF:-1 tvg-id="historyhd.mx" tvg-name="MX | History" tvg-logo="https://thehistorychanneliberia.com/images/logo_his.png" group-title="Mundo y Cultura",MX | History
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/524
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="MX | NatGeo Wild" tvg-logo="" group-title="Mundo y Cultura",MX | NatGeo Wild
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/525
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="MX | Discovery World HD" tvg-logo="" group-title="Mundo y Cultura",MX | Discovery World HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/526
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery Channel" tvg-logo="https://i.blogs.es/0036df/discovery_logo/450_1000.jpg" group-title="Mundo y Cultura",MX | Discovery Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/527
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="MX | Animal Planet" tvg-logo="http://1.bp.blogspot.com/-ZxSLgUvnfbA/UgmwyPWsM_I/AAAAAAAAAAc/7TyqbuEdPKg/s1600/animal+planet.jpg" group-title="Mundo y Cultura",MX | Animal Planet
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/528
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="MX | Discovery Home and Health" tvg-logo="https://img2.freepng.es/20180528/gai/kisspng-discovery-home-health-television-channel-discove-good-health-5b0c6e7c49bcf8.056563701527541372302.jpg" group-title="Entretenimiento",MX | Discovery Home and Health
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/529
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="MX | NatGeo Channel" tvg-logo="" group-title="Mundo y Cultura",MX | NatGeo Channel
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/530
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="MX | Lifetime" tvg-logo="https://ts-cms-production.votenow.tv/campaign/10/06/1006092/15678072315d72d6ff40dc13.26621598.png" group-title="Entretenimiento",MX | Lifetime
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/531
+#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Science" tvg-logo="" group-title="Mundo y Cultura",MX | Discovery Science
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/532
+#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Civilization" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="Mundo y Cultura",MX | Discovery Civilization
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/533
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD TLC" tvg-logo="" group-title="Entretenimiento",MX|HD TLC
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/534
+#EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="MX | Wobi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WOBI_logo.png/320px-WOBI_logo.png" group-title="Noticias",MX | Wobi
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/535
 
-#EXTINF:-1,MUSICA HOLIDAY-HITS
-http://23.237.122.154:25461/BUDTV/DFGHJ/165
-#EXTINF:-1,MUSICA HOLIDAY-YULE-LOGS
-http://23.237.122.154:25461/BUDTV/DFGHJ/166
-#EXTINF:-1,MUSICA HIT-LIST
-http://23.237.122.154:25461/BUDTV/DFGHJ/167
-#EXTINF:-1,MUSICA HIP-HOP-AND-RANDB
-http://23.237.122.154:25461/BUDTV/DFGHJ/168
-#EXTINF:-1,MUSICA TEEN-BEATS
-http://23.237.122.154:25461/BUDTV/DFGHJ/169
-#EXTINF:-1,MUSICA RANDB-SOUL
-http://23.237.122.154:25461/BUDTV/DFGHJ/170
-#EXTINF:-1,MUSICA TODAYS-COUNTRY
-http://23.237.122.154:25461/BUDTV/DFGHJ/171
-#EXTINF:-1,MUSICA POP-HITS
-http://23.237.122.154:25461/BUDTV/DFGHJ/172
-#EXTINF:-1,MUSICA POP-AND-COUNTRY
-http://23.237.122.154:25461/BUDTV/DFGHJ/173
-#EXTINF:-1,MUSICA RAP
-http://23.237.122.154:25461/BUDTV/DFGHJ/174
-#EXTINF:-1,MUSICA 90S
-http://23.237.122.154:25461/BUDTV/DFGHJ/175
-#EXTINF:-1,MUSICA TODDLER-TUNES
-http://23.237.122.154:25461/BUDTV/DFGHJ/176
-#EXTINF:-1,MUSICA KIDZ-ONLY!
-http://23.237.122.154:25461/BUDTV/DFGHJ/177
-#EXTINF:-1,MUSICA ROCK
-http://23.237.122.154:25461/BUDTV/DFGHJ/178
-#EXTINF:-1,MUSICA ALTERNATIVE
-http://23.237.122.154:25461/BUDTV/DFGHJ/179
-#EXTINF:-1,MUSICA INDIE
-http://23.237.122.154:25461/BUDTV/DFGHJ/180
-#EXTINF:-1,MUSICA METAL
-http://23.237.122.154:25461/BUDTV/DFGHJ/181
-#EXTINF:-1,MUSICA MUSICA-URBANA
-http://23.237.122.154:25461/BUDTV/DFGHJ/182
-#EXTINF:-1,MUSICA THROWBACK-JAMZ
-http://23.237.122.154:25461/BUDTV/DFGHJ/183
-#EXTINF:-1,MUSICA POP-LATINO
-http://23.237.122.154:25461/BUDTV/DFGHJ/184
-#EXTINF:-1,MUSICA DANCE
-http://23.237.122.154:25461/BUDTV/DFGHJ/185
-#EXTINF:-1,MUSICA Y2K
-http://23.237.122.154:25461/BUDTV/DFGHJ/186
-#EXTINF:-1,MUSICA BRITS-PLUS-HITS
-http://23.237.122.154:25461/BUDTV/DFGHJ/187
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="MX | Golf Channel HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_golf-channel-hd_m.png" group-title="Sports",MX | Golf Channel HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/559
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="MX | Espn Plus" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="Sports",MX | Espn Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/560
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX | Espn 3" tvg-logo="" group-title="Sports",MX | Espn 3
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/561
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MX | Fox Sports HD" tvg-logo="https://img2.freepng.es/20180716/cp/kisspng-fox-sports-networks-sportsouth-television-fox-action-movies-logo-5b4d3b5b1d82e3.8392568615317881231209.jpg" group-title="Sports",MX | Fox Sports HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/562
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="MX | Fox Sports 2" tvg-logo="" group-title="Sports",MX | Fox Sports 2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/563
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="MX | Espn Sec" tvg-logo="https://www.thewaltdisneycompany.com/wp-content/uploads/cropped-SEC-Logo-630x426.png" group-title="Sports",MX | Espn Sec
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/564
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX | Espn HD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="Sports",MX | Espn HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/566
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX|HD Espn 2 HD" tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espn2.png&cquality=40" group-title="Sports",MX|HD Espn 2 HD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/567
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MX | Fox Sports 3" tvg-logo="" group-title="Sports",MX | Fox Sports 3
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/568
+IiAiIgIiIP/2Q==" group-title="Sports",MX | AyM Sports
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/569
+#EXTINF:-1 tvg-id="cnnenespañol.mx" tvg-name="MX | CNN" tvg-logo="" group-title="Noticias",MX | CNN
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/570
+#EXTINF:-1 tvg-id="" tvg-name="USA | Eleven Sports" tvg-logo="" group-title="Sports",USA | Eleven Sports
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/315
+#EXTINF:-1 tvg-id="" tvg-name="UltraLuna" tvg-logo="" group-title="VEMOX",UltraLuna
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/421
+#EXTINF:-1 tvg-id="" tvg-name="UltraCine" tvg-logo="" group-title="VEMOX",UltraCine
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/422
+#EXTINF:-1 tvg-id="" tvg-name="UltraMex" tvg-logo="" group-title="VEMOX",UltraMex
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/423
+#EXTINF:-1 tvg-id="" tvg-name="UltraFiesta" tvg-logo="" group-title="VEMOX",UltraFiesta
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/424
+#EXTINF:-1 tvg-id="" tvg-name="UltraFilm" tvg-logo="" group-title="VEMOX",UltraFilm
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/425
+#EXTINF:-1 tvg-id="" tvg-name="UltraMacho" tvg-logo="" group-title="VEMOX",UltraMacho
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/426
+#EXTINF:-1 tvg-id="" tvg-name="UltraClasico" tvg-logo="" group-title="VEMOX",UltraClasico
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/427
+#EXTINF:-1 tvg-id="" tvg-name="UltraFamilia" tvg-logo="" group-title="VEMOX",UltraFamilia
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/428
+#EXTINF:-1 tvg-id="" tvg-name="orbita tv" tvg-logo="" group-title="VEMOX",orbita tv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/433
+#EXTINF:-1 tvg-id="" tvg-name="24horas" tvg-logo="" group-title="VEMOX",24horas
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/435
+#EXTINF:-1 tvg-id="" tvg-name="france24hd" tvg-logo="" group-title="VEMOX",france24hd
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/436
+#EXTINF:-1 tvg-id="" tvg-name="canal44" tvg-logo="" group-title="VEMOX",canal44
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/438
+#EXTINF:-1 tvg-id="" tvg-name="estrellatv" tvg-logo="" group-title="VEMOX",estrellatv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/440
+#EXTINF:-1 tvg-id="" tvg-name="PacificoTV" tvg-logo="" group-title="VEMOX",PacificoTV
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/441
+#EXTINF:-1 tvg-id="" tvg-name="zeemundo" tvg-logo="" group-title="VEMOX",zeemundo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/443
+#EXTINF:-1 tvg-id="" tvg-name="naturevision" tvg-logo="" group-title="VEMOX",naturevision
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/444
+#EXTINF:-1 tvg-id="" tvg-name="supercanal" tvg-logo="" group-title="VEMOX",supercanal
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/449
+#EXTINF:-1 tvg-id="" tvg-name="tele-el-salvador" tvg-logo="" group-title="VEMOX",tele-el-salvador
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/450
+#EXTINF:-1 tvg-id="" tvg-name="c7jalisco" tvg-logo="" group-title="VEMOX",c7jalisco
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/453
+#EXTINF:-1 tvg-id="" tvg-name="cubaplay" tvg-logo="" group-title="VEMOX",cubaplay
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/454
+#EXTINF:-1 tvg-id="" tvg-name="insight_tv" tvg-logo="" group-title="VEMOX",insight_tv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/445
+#EXTINF:-1 tvg-id="" tvg-name="cbtv" tvg-logo="" group-title="VEMOX",cbtv
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/452
+#EXTINF:-1 tvg-id="" tvg-name="gran cine" tvg-logo="" group-title="VEMOX",gran cine
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/455
+#EXTINF:-1 tvg-id="" tvg-name="telen" tvg-logo="" group-title="VEMOX",telen
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/457
+#EXTINF:-1 tvg-id="" tvg-name="sorpresa" tvg-logo="" group-title="VEMOX",sorpresa
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/456
+#EXTINF:-1 tvg-id="" tvg-name="dominican view" tvg-logo="" group-title="VEMOX",dominican view
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/458
+#EXTINF:-1 tvg-id="" tvg-name="telemicro" tvg-logo="" group-title="VEMOX",telemicro
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/460
+#EXTINF:-1 tvg-id="" tvg-name="lasusa" tvg-logo="" group-title="VEMOX",lasusa
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/459
+#EXTINF:-1 tvg-id="" tvg-name="sonlife spanish" tvg-logo="" group-title="VEMOX",sonlife spanish
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/461
+#EXTINF:-1 tvg-id="" tvg-name="enlace" tvg-logo="" group-title="VEMOX",enlace
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/462
+#EXTINF:-1 tvg-id="" tvg-name="aliento vision" tvg-logo="" group-title="VEMOX",aliento vision
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/463
+#EXTINF:-1 tvg-id="" tvg-name="senal de vida" tvg-logo="" group-title="VEMOX",senal de vida
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/464
+#EXTINF:-1 tvg-id="" tvg-name="canal 44" tvg-logo="" group-title="VEMOX",canal 44
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/465
+#EXTINF:-1 tvg-id="" tvg-name="Fix and Foxi" tvg-logo="" group-title="VEMOX",Fix and Foxi
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/467
+#EXTINF:-1 tvg-id="" tvg-name="ultra docu" tvg-logo="" group-title="VEMOX",ultra docu
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/468
+#EXTINF:-1 tvg-id="" tvg-name="ultra banda" tvg-logo="" group-title="VEMOX",ultra banda
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/469
+#EXTINF:-1 tvg-id="" tvg-name="ultrat ainment" tvg-logo="" group-title="VEMOX",ultrat ainment
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/470
+#EXTINF:-1 tvg-id="comcastsnynewyorksportsnet.us" tvg-name="USA | SNY" tvg-logo="" group-title="Sports",USA | SNY
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/386
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="USA | OWN" tvg-logo="" group-title="USA",USA | OWN
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/371
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="USA | Pop" tvg-logo="" group-title="USA",USA | Pop
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/378
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="USA | Outside" tvg-logo="" group-title="Sports",USA | Outside
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/369
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="USA | Fox Business Network" tvg-logo="" group-title="USA",USA | Fox Business Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/326
+#EXTINF:-1 tvg-id="" tvg-name="USA | Hallmark Movies & Mysteries" tvg-logo="" group-title="USA",USA | Hallmark Movies & Mysteries
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/345
+#EXTINF:-1 tvg-id="" tvg-name="USA | Hallmark Drama" tvg-logo="" group-title="USA",USA | Hallmark Drama
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/344
+#EXTINF:-1 tvg-id="" tvg-name="USA | Hallmark" tvg-logo="" group-title="USA",USA | Hallmark
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/343
+#EXTINF:-1 tvg-id="" tvg-name="USA | FXX" tvg-logo="" group-title="USA",USA | FXX
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/337
+#EXTINF:-1 tvg-id="fx.us" tvg-name="USA | FX" tvg-logo="" group-title="USA",USA | FX
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/335
+#EXTINF:-1 tvg-id="" tvg-name="USA | Food Network" tvg-logo="" group-title="USA",USA | Food Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/324
+#EXTINF:-1 tvg-id="" tvg-name="USA | Yes Network" tvg-logo="" group-title="Sports",USA | Yes Network
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/420
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA | Fox Sports 2" tvg-logo="" group-title="Sports",USA | Fox Sports 2
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/330
+#EXTINF:-1 tvg-id="" tvg-name="USA | American Horrors" tvg-logo="" group-title="Movies",USA | American Horrors
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/793
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia 76ers" tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj7gPrOsKbmAhUC5awKHXZ2BkgQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.nba.com%2Fsixers%2F%3F&psig=AOvVaw3399O8vT1sDOmnI8gf5bbs&ust=1575905770679897" group-title="NBA",Philadelphia 76ers
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/804
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="New York Knicks" tvg-logo="https://panelinferno.com/posters/1571875720436.jpg" group-title="NBA",New York Knicks
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/805
+#EXTINF:-1 tvg-id="" tvg-name="Washington Wizards" tvg-logo="" group-title="NBA",Washington Wizards
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/806
+#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs" tvg-logo="" group-title="NBA",San Antonio Spurs
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/807
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Hawks" tvg-logo="https://panelinferno.com/posters/1571945190283.jpg" group-title="NBA",Atlanta Hawks
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/808
+#EXTINF:-1 tvg-id="foxsportswisconsin.us" tvg-name="Milwaukee Bucks" tvg-logo="" group-title="NBA",Milwaukee Bucks
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/809
+#EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets" tvg-logo="" group-title="NBA",Charlotte Hornets
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/810
+#EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nets" tvg-logo="" group-title="NBA",Brooklyn Nets
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/811
+#EXTINF:-1 tvg-id="" tvg-name="Miami Heat" tvg-logo="" group-title="NBA",Miami Heat
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/812
+#EXTINF:-1 tvg-id="" tvg-name="Cleveland Cavaliers" tvg-logo="" group-title="NBA",Cleveland Cavaliers
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/813
+#EXTINF:-1 tvg-id="foxsportsflorida.us" tvg-name="Orlando Magic" tvg-logo="https://panelinferno.com/posters/1571858330229.png" group-title="NBA",Orlando Magic
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/814
+#EXTINF:-1 tvg-id="" tvg-name="Golden State Warriors" tvg-logo="" group-title="NBA",Golden State Warriors
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/815
+#EXTINF:-1 tvg-id="nbcsportschicagoplus.us" tvg-name="Chicago Bulls" tvg-logo="https://panelinferno.com/posters/1571857405489.png" group-title="NBA",Chicago Bulls
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/816
+#EXTINF:-1 tvg-id="foxsportsdetroit.us" tvg-name="Detroit Pistons" tvg-logo="" group-title="NBA",Detroit Pistons
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/817
+#EXTINF:-1 tvg-id="foxsportsnorth.us" tvg-name="Minnesota Timberwolves" tvg-logo="https://panelinferno.com/posters/1571860311353.jpg" group-title="NBA",Minnesota Timberwolves
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/818
+#EXTINF:-1 tvg-id="" tvg-name="Houston Rockets" tvg-logo="" group-title="NBA",Houston Rockets
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/819
+#EXTINF:-1 tvg-id="foxsportswestprimeticket.us" tvg-name="Los Angeles Clippers" tvg-logo="" group-title="NBA",Los Angeles Clippers
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/820
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="Boston Celtics" tvg-logo="" group-title="NBA",Boston Celtics
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/821
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="Azteca 7 FHD" tvg-logo="https://panelinferno.com/posters/1574280322408.png" group-title="MEXICO FHD",Azteca 7 FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/822
+#EXTINF:-1 tvg-id="tiin.mx" tvg-name="BITME FHD" tvg-logo="https://panelinferno.com/posters/1574280842332.jpg" group-title="MEXICO FHD",BITME FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/824
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Canal De Las Estrellas FHD" tvg-logo="https://panelinferno.com/posters/1574280923376.png" group-title="MEXICO FHD",Canal De Las Estrellas FHD
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/825
+#EXTINF:-1 tvg-id="nbcsportsphiladelphiaplus.us" tvg-name="NBCSN Philadelphia Plus" tvg-logo="" group-title="Sports",NBCSN Philadelphia Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/963
+#EXTINF:-1 tvg-id="foxwtxf.us" tvg-name="FOX Philadelphia" tvg-logo="" group-title="USA Networks",FOX Philadelphia
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/964
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN Chicago Plus" tvg-logo="" group-title="Sports",NBCSN Chicago Plus
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/965
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Boston" tvg-logo="" group-title="Latinos USA",USA | Telemundo Boston
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/966
+#EXTINF:-1 tvg-id="" tvg-name="FOX BAY AREA" tvg-logo="" group-title="USA Networks",FOX BAY AREA
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/967
+#EXTINF:-1 tvg-id="" tvg-name="CBS Austin" tvg-logo="" group-title="USA Networks",CBS Austin
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/968
+#EXTINF:-1 tvg-id="cbswbz.us" tvg-name="CBS Boston" tvg-logo="" group-title="USA Networks",CBS Boston
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/969
+#EXTINF:-1 tvg-id="cbs11ktvt.us" tvg-name="CBS Dallas" tvg-logo="" group-title="USA Networks",CBS Dallas
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/970
+#EXTINF:-1 tvg-id="cbs4kcnctv.us" tvg-name="CBS Denver" tvg-logo="" group-title="USA Networks",CBS Denver
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/971
+#EXTINF:-1 tvg-id="" tvg-name="PR | Telemundo" tvg-logo="" group-title="Puerto Rico",PR | Telemundo
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/972
+#EXTINF:-1 tvg-id="" tvg-name="COZI" tvg-logo="" group-title="USA Networks",COZI
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/974
+#EXTINF:-1 tvg-id="foxwaga.us" tvg-name="FOX Atlanta" tvg-logo="" group-title="USA Networks",FOX Atlanta
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/975
+#EXTINF:-1 tvg-id="" tvg-name="Univision PR" tvg-logo="" group-title="Puerto Rico",Univision PR
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/989
+#EXTINF:-1 tvg-id="" tvg-name="Wapa" tvg-logo="" group-title="Puerto Rico",Wapa
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/990
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE" tvg-logo="" group-title="PPV",WWE
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/991
+#EXTINF:-1 tvg-id="" tvg-name="Thursday Night Football" tvg-logo="https://panelinferno.com/posters/1571958077576.jpg" group-title="NFL",Thursday Night Football
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/993
+#EXTINF:-1 tvg-id="" tvg-name="USA | UFC Fight Pass" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="PPV",USA | UFC Fight Pass
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/410
+#EXTINF:-1 tvg-id="" tvg-name="Sacramento Kings" tvg-logo="https://panelinferno.com/posters/1572799341538.jpg" group-title="NBA",Sacramento Kings
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/1389
+#EXTINF:-1 tvg-id="" tvg-name="Oklahoma City Thunder" tvg-logo="https://panelinferno.com/posters/1571876547571.png" group-title="NBA",Oklahoma City Thunder
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/1579
+#EXTINF:-1 tvg-id="foxsportsarizona.us" tvg-name="Phoenix Suns" tvg-logo="https://panelinferno.com/posters/1571876709204.jpg" group-title="NBA",Phoenix Suns
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/2525
+#EXTINF:-1 tvg-id="foxsportsindiana.us" tvg-name="Indiana Pacers" tvg-logo="https://panelinferno.com/posters/1571858099162.png" group-title="NBA",Indiana Pacers
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/2526
+#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers" tvg-logo="https://panelinferno.com/posters/1571876992574.png" group-title="NBA",Portland Trail Blazers
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/2527
+#EXTINF:-1 tvg-id="" tvg-name="Memphis Grizzlies" tvg-logo="https://panelinferno.com/posters/1571872448499.png" group-title="NBA",Memphis Grizzlies
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/2528
+#EXTINF:-1 tvg-id="" tvg-name="New Orleans Pelicans" tvg-logo="https://panelinferno.com/posters/1571686746330.png" group-title="NBA",New Orleans Pelicans
+http://158.69.127.36:25461/BbCHfcsrtx/WgdwT6jWfT/2529
+
+#EXTINF:-1 tvg-id="" tvg-name="A Brief History of Time" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/245tFCzZLiE9Xo03EuZIU03zXEw.jpg" group-title="Documentales",A Brief History of Time
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Americons" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYl7Rvm3GfecNnsKb1XFAuOQcFb.jpg" group-title="Documentales",Americons
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr0laiK7CVmsT87iQml153xs3Up.jpg" group-title="Documentales",Amy
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Andre the Giant" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4t2g7NbHGu0c51jlQ2qlOZEhvr.jpg" group-title="Documentales",Andre the Giant
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bigger Stronger Faster*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnM7u7U9d32eukdjc7icEVKXie8.jpg" group-title="Documentales",Bigger Stronger Faster*
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartel Land" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DGaP0ZC7Fd5K8mx4NiZHf5hWrK.jpg" group-title="Documentales",Cartel Land
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cave of Forgotten Dreams" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml6BLrR3fEAuTGtKL6EkBPPgoPt.jpg" group-title="Documentales",Cave of Forgotten Dreams
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chasing Ice" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MMQ03sJPT0Et50RQFzuLikpvPf.jpg" group-title="Documentales",Chasing Ice
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chimpanzee" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3IojCgvzVba9Fq2myvEGyoItE4.jpg" group-title="Documentales",Chimpanzee
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crime and Punishment" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BNFjGW6alVMkaG3rbOELgqZJPy.jpg" group-title="Documentales",Crime and Punishment
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dear Zachary: A Letter to a Son About His Father" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wR0KAMfvNITXgBERY4FPyrdVyXT.jpg" group-title="Documentales",Dear Zachary: A Letter to a Son About His Father
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doc of the Dead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7X0xV2zsUCFXWrrpQIowLjgCcz.jpg" group-title="Documentales",Doc of the Dead
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dream Big: Engineering Our World" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIAXa5fetPSPp7ESyS0FOO7AIrC.jpg" group-title="Documentales",Dream Big: Engineering Our World
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pearl Button" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GAnKeeKMXh8gm5Zudydd3TnBjC.jpg" group-title="Documentales",The Pearl Button
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El último truco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWLG3EBbi6dbBMe20WQfHwNHKVc.jpg" group-title="Documentales",El último truco
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Exit Through the Gift Shop" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fT6dysu7vxVGEZInDQzZ209RdSI.jpg" group-title="Documentales",Exit Through the Gift Shop
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fed Up" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKVENCajbPNs5woa92oqUFHKBR9.jpg" group-title="Documentales",Fed Up
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="F for Fake Trailer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWbxVgpDd9BRTaKDUy2SFzfhXN2.jpg" group-title="Documentales",F for Fake Trailer
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Food, Inc." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWYCM3YVYwZQcpfye6biAlPy9Xt.jpg" group-title="Documentales",Food, Inc.
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Forks Over Knives" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNw4qSzEfpit4UJzoqUdAd0flhd.jpg" group-title="Documentales",Forks Over Knives
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gaga: Five Foot Two" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0NONcnzzvWoASFjFoDqXZUW6SV.jpg" group-title="Documentales",Gaga: Five Foot Two
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Generation Iron" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6LSfvclXCmgTvOaIclzqPlXbZh.jpg" group-title="Documentales",Generation Iron
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Get Thrashed" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLOSHaN52KDNfD8IEHKFzuYxp1z.jpg" group-title="Documentales",Get Thrashed
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="God Loves Uganda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xFNkTgqlDy5qGh46GaGmg377NV.jpg" group-title="Documentales",God Loves Uganda
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grizzly Man" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNs0HRSEvSKmtcMiVa2O1yWUKCk.jpg" group-title="Documentales",Grizzly Man
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry & Snowman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mH73q6ZK50EhNpDxaGidlMZgek.jpg" group-title="Documentales",Harry & Snowman
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hearts and Minds" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOEqgM1Rw71QByBZoxOSwuAJTeO.jpg" group-title="Documentales",Hearts and Minds
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hearts of Darkness: A Filmmaker's Apocalypse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQLXcATpUxrRdEzxoDqzCgYllnT.jpg" group-title="Documentales",Hearts of Darkness: A Filmmaker's Apocalypse
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoop Dreams" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qHwh3mFJs7ldwzGSWsBLmgecfj.jpg" group-title="Documentales",Hoop Dreams
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hostage to the Devil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFre2RqFH7AcUHqjergi9nmiVQM.jpg" group-title="Documentales",Hostage to the Devil
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot Coffee" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HiYwUGJAs1W6VmY0u7WtX65Mta.jpg" group-title="Documentales",Hot Coffee
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="How to Make Money Selling Drugs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nvmCvYOEYjVTlKDyyMCQkibun3.jpg" group-title="Documentales",How to Make Money Selling Drugs
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Janis: Little Girl Blue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qosDLnAcHRAUjgmZIU0c1ktEhx2.jpg" group-title="Documentales",Janis: Little Girl Blue
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jason Becker: Not Dead Yet" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgURTYtCiHPX70vx8Vkr3pUpsU0.jpg" group-title="Documentales",Jason Becker: Not Dead Yet
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="King in the Wilderness" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36dEjIXMfrtzlDXDiNQCzyqVTTS.jpg" group-title="Documentales",King in the Wilderness
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Klitschko" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kiCtOWdB73dLeTQMv6YbIeDaK4.jpg" group-title="Documentales",Klitschko
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leave the World Behind" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foLe0dW1Q9DqUfigZKzwejfChhY.jpg" group-title="Documentales",Leave the World Behind
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lemmy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ahUkEywduJW9OBAvNp0WNGdGR7.jpg" group-title="Documentales",Lemmy
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Life Happens" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1nppVVZwYn1lTqCOfHgrKBtgAS.jpg" group-title="Documentales",Life Happens
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Life in a Day" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DuRrghdhSL0dPMHlWb8rc75bYx.jpg" group-title="Documentales",Life in a Day
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucha Mexico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVCxsROCfy6WU7OaYLBwL6yomYm.jpg" group-title="Documentales",Lucha Mexico
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meru" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibDApPTfqYpiAk3W3Z98bhARsu7.jpg" group-title="Documentales",Meru
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michael Jackson's Journey from Motown to Off the Wall" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sYtTu4NEvfHSDs5HhZUaAh6iBG.jpg" group-title="Documentales",Michael Jackson's Journey from Motown to Off the Wall
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michael Jordan to the Max" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mpDcmOOjgls5aVSOwp6rNmSTOB.jpg" group-title="Documentales",Michael Jordan to the Max
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission Control: The Unsung Heroes of Apollo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pBpq1fieUBcoFUM4lbGp8dUKR6.jpg" group-title="Documentales",Mission Control: The Unsung Heroes of Apollo
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MURPH: The Protector" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RJ6X871zpqncivDGFrQbF9cUHx.jpg" group-title="Documentales",MURPH: The Protector
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nostalgia for the Light" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVGSAr0EQQUOXFxlnUyIpAfZ0SJ.jpg" group-title="Documentales",Nostalgia for the Light
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Notes on Blindness" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCCaqxVbToOOSmjwrOvz0TmIZSc.jpg" group-title="Documentales",Notes on Blindness
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Not Quite Hollywood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBvPMwQLibqP7F8h4Fjcf5myIz0.jpg" group-title="Documentales",Not Quite Hollywood
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supersonic" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOWuegX0Bfx4EhgS4qLz2Imq2dE.jpg" group-title="Documentales",Supersonic
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time in Norway" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4IdamukhouGdpH5Ju37QiWqRuh.jpg" group-title="Documentales",Once Upon a Time in Norway
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Day in September" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsxtkcidi7flgxWERBSnwtyH1JJ.jpg" group-title="Documentales",One Day in September
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Path of Blood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUo6EiUQyGV3OVrgY45Y6EC5ESi.jpg" group-title="Documentales",Path of Blood
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sins of My Father" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPcy3bINUEAlaNoEH15EyN0nAQp.jpg" group-title="Documentales",Sins of My Father
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pink Floyd: The Story of Wish You Were Here" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMW6BOGhSeTuBviwsEll2ziYtAA.jpg" group-title="Documentales",Pink Floyd: The Story of Wish You Were Here
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Polar Bears: A Summer Odyssey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1hnbutMdTM9ZDes1N9MHXPTTDR.jpg" group-title="Documentales",Polar Bears: A Summer Odyssey
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7crTWty6HwT4gvGe5Bs5a6UZzY.jpg" group-title="Documentales",Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prescription Thugs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7KWW72qYYBvrgy4nBTWsJbcgvH6.jpg" group-title="Documentales",Prescription Thugs
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RBG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIenhDe9DuvxODJOIpMjBheYlcS.jpg" group-title="Documentales",RBG
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Religulous" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsSVlA5HbWZUR3XdpJfiuT4TDMR.jpg" group-title="Documentales",Religulous
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reversing Roe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BnywwZkvTrAIOsNCyfPPkwknUF.jpg" group-title="Documentales",Reversing Roe
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shine a Light" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28Lbw8CG5jX4nRB7O3dBmbtpzr7.jpg" group-title="Documentales",Shine a Light
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ronaldo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW5J5u5a7J4MtZi8CNAyFT6nUoJ.jpg" group-title="Documentales",Ronaldo
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Room 237" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qu60yUk1GlJY0cG6fScOVPsxyN.jpg" group-title="Documentales",Room 237
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santoalla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMiQJrxtR8lgXZMEH6a40rm3NjO.jpg" group-title="Documentales",Santoalla
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alejandro Sanz: What I Was Is What I Am" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D33I0mGprRL01fcthHSDmDGG0w.jpg" group-title="Documentales",Alejandro Sanz: What I Was Is What I Am
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream for Me Sarajevo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vA1ekBwl2eFmvcWyMJ7Q8s4u6gN.jpg" group-title="Documentales",Scream for Me Sarajevo
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Searching for Sugar Man" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Jr5J3pdgEnQymHNge20XUM3YlV.jpg" group-title="Documentales",Searching for Sugar Man
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Senna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg" group-title="Documentales",Senna
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S Is for Stanley - Trent'anni dietro al volante per Stanley Kubrick" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNZPgOX5m2fhz1zYtJGvyHgfyXz.jpg" group-title="Documentales",S Is for Stanley - Trent'anni dietro al volante per Stanley Kubrick
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sound City" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f47RPwXtkqaW46ex1gdtM38Qe8A.jpg" group-title="Documentales",Sound City
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Springsteen: Springsteen & I" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8jD8MWpK02UYwDE9clJWnE5JVH.jpg" group-title="Documentales",Bruce Springsteen: Springsteen & I
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strokes of Genius" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqvtCUYo6qKJffEiTzyqgWk1mNf.jpg" group-title="Documentales",Strokes of Genius
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supermensch: The Legend of Shep Gordon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1spRBeofv0knLliedyqOI8DS7sz.jpg" group-title="Documentales",Supermensch: The Legend of Shep Gordon
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="That Sugar Film" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF1fDtJ1vU3hrLDNJCgRoQekFmM.jpg" group-title="Documentales",That Sugar Film
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The American Scream" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6scMRY9964VE7yfmrwnYVSFkB2t.jpg" group-title="Documentales",The American Scream
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cutting Edge: The Magic of Movie Editing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUepcj7iBKirdscldMvYre2pCtX.jpg" group-title="Documentales",The Cutting Edge: The Magic of Movie Editing
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dwarvenaut" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDCvPCPevBWv2L2Q0cQJA7iurdS.jpg" group-title="Documentales",The Dwarvenaut
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lion King" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg" group-title="Documentales",The Lion King
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Internet's Own Boy: The Story of Aaron Swartz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfhevmkFxxYiDy3E2uH6Hmq5mlv.jpg" group-title="Documentales",The Internet's Own Boy: The Story of Aaron Swartz
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Last Lions" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQRKJhkmVun6ByaF3ZPXxCJaofn.jpg" group-title="Documentales",The Last Lions
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Man on the Moon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9SFg92EmGGuwjE5IotfGicp8xK.jpg" group-title="Documentales",The Last Man on the Moon
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Man Who Loves to Hurt Himself" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4AIwFA3A43OMqM35jIQzE1rfi0.jpg" group-title="Documentales",The Man Who Loves to Hurt Himself
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Oslo Diaries" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/finfdvPVHwuOXtKI0VnGYgOidh.jpg" group-title="Documentales",The Oslo Diaries
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pixar Story" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zML03Zd84aqsZmi2sAq1FqLth7T.jpg" group-title="Documentales",The Pixar Story
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crossfire Hurricane" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rGmjuPjtddvMcfrvaRuxIzCUew.jpg" group-title="Documentales",Crossfire Hurricane
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="These Amazing Shadows" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzP08vB5s5mMGR2NFX8pnw2G0Vs.jpg" group-title="Documentales",These Amazing Shadows
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Search for Freedom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NBX712Smbo3TSrwsUhLThGoBFt.jpg" group-title="Documentales",The Search for Freedom
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Surrounding Game" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKOp85iDsUOzNMZunFF0JnK0RGW.jpg" group-title="Documentales",The Surrounding Game
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Thin Blue Line" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFN3xPDzN4O7oIBmxnLIh8VROIw.jpg" group-title="Documentales",The Thin Blue Line
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The True Cost" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEFRCIfuYB6vWbJ8bghRRFoPEQp.jpg" group-title="Documentales",The True Cost
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Wolfpack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PbvP7nTurg5SDVLhCE6Gc6T5Lp.jpg" group-title="Documentales",The Wolfpack
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tig" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PqIqBDQa5o5MjQzLb9h2atklMn.jpg" group-title="Documentales",Tig
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Touching the Void" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozExRDtiwDqyIcRfZ7Zi14EPbiX.jpg" group-title="Documentales",Touching the Void
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pirate Bay: Away from Keyboard" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cERJbiAXB8ji0mvMQRIOMUvLo2G.jpg" group-title="Documentales",The Pirate Bay: Away from Keyboard
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TT3D: Closer to the Edge" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTlrP23ynrczXnyG03bDSASv5Ra.jpg" group-title="Documentales",TT3D: Closer to the Edge
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Under the Electric Sky" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6QXfsujsf8t85hZZNjPndLVzdb.jpg" group-title="Documentales",Under the Electric Sky
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vitamania: The Sense and Nonsense of Vitamins" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQcjjn5Jsbw1iiRaPYCo0SQw1AD.jpg" group-title="Documentales",Vitamania: The Sense and Nonsense of Vitamins
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="What Our Fathers Did: A Nazi Legacy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6UsOxBtLwMp2CSSkHo02xFJtke.jpg" group-title="Documentales",What Our Fathers Did: A Nazi Legacy
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Won't You Be My Neighbor?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qE8NZjiP2M884baH0VoLF828Vp.jpg" group-title="Documentales",Won't You Be My Neighbor?
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Last Conversations" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUQNArGPlhbyKSg31TVFqYjJAZM.jpg" group-title="Documentales",Last Conversations
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/4517.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bienvenido Paisano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/renckXaIpRo5jBZcrq6t7RMS1cq.jpg" group-title="Mexicanas",Bienvenido Paisano
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De Panzazo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rjZn5oVk1nA9CDgkhbPI2VDbny.jpg" group-title="Mexicanas",De Panzazo
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Three Steps Above Heaven" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57D3h8wb3LMURTyG0dv2VtHfvCM.jpg" group-title="Mexicanas",Three Steps Above Heaven
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Crime of Cacaro Gumaro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaQ58zwOaGBuZ7CFg9JApYJGWgz.jpg" group-title="Mexicanas",The Crime of Cacaro Gumaro
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Diablo, el santo y el tonto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipK4fpHCkOPe15TKxhVry3DmKCH.jpg" group-title="Mexicanas",El Diablo, el santo y el tonto
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elvira, I would give you my life but I'm using it" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JNn3UleSMq3p9M0NXHyHyb2Jhi.jpg" group-title="Mexicanas",Elvira, I would give you my life but I'm using it
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre compadres te veas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZOkqXgH6qiAyIdMXe5wA7yGatU.jpg" group-title="Mexicanas",Entre compadres te veas
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Demon Inside" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/888wwnjWOkVl8lz2R1wgTA5qwJA.jpg" group-title="Mexicanas",The Demon Inside
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amorous Pancho Villa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohUx5ocJZrD0hEgZ2yrB0x37prw.jpg" group-title="Mexicanas",Amorous Pancho Villa
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Perfect Dictatorship" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0Our7wh91YieK86piDmmiOWkeR.jpg" group-title="Mexicanas",The Perfect Dictatorship
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Half of the World" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVJ8gDcRXKQN9DvrOE4seoUZNYi.jpg" group-title="Mexicanas",Half of the World
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Obscure Springs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rtJ10Q4V62n6sd9cqGiL80L1g9.jpg" group-title="Mexicanas",The Obscure Springs
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Darker than Night" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ksR1JDlzXIeXJ6mKeMkoseEt77.jpg" group-title="Mexicanas",Darker than Night
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instructions Not Included" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhf4A9Hwg1ZSsq6FkqEhX33SruX.jpg" group-title="Mexicanas",Instructions Not Included
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="We Are the Nobles" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYMugyB5JFtB5441F8IcgTVNqnu.jpg" group-title="Mexicanas",We Are the Nobles
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Picardia mexicana 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8w19R8uWTN0LzJhaJfSeA8gld5.jpg" group-title="Mexicanas",Picardia mexicana 2
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rudo & Cursi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAErOVC7sAvNyz4ENDDOlqMOwS8.jpg" group-title="Mexicanas",Rudo & Cursi
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Siete" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2ZPxE3qSEec2xbfIwBw17PrAkE.jpg" group-title="Mexicanas",Los Siete
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sor Tequila" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8l3UZ4oSnToLOyZMcWPgp0HtLu.jpg" group-title="Mexicanas",Sor Tequila
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suave Patria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwNIOTZY30yBj64Uf6Q0wnXlapo.jpg" group-title="Mexicanas",Suave Patria
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas mías" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXiBQQPuiiKbVJ611P4uq7JFTUf.jpg" group-title="Mexicanas",Todas mías
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pride and Prejudice and Zombies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsJlOhVHiz1xXr36616EI8tJ4b2.jpg" group-title="Terror",Pride and Prejudice and Zombies
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zombeavers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pn3R6VZq4UdM7qdIhw5YOHnwNna.jpg" group-title="Terror",Zombeavers
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="You're Next" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCQowhMukynSnIPJAh4zNdyDulG.jpg" group-title="Terror",You're Next
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7GFrKemsW7L6SpuGQ91ozegbn9.jpg" group-title="Terror",XX
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wyrmwood: Road of the Dead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l956WoDpwQ0nWOQXmrMVu11mzKe.jpg" group-title="Terror",Wyrmwood: Road of the Dead
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyn0ZC8tvLWuKN85mhlG1lwB1WQ.jpg" group-title="Terror",Wrong Turn
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 6: Last Resort" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6bu9uvIQBTJEmWCGlifTToWxsu.jpg" group-title="Terror",Wrong Turn 6: Last Resort
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 5: Bloodlines" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olnVrUyoL2ntBBuipvXBecCbTBX.jpg" group-title="Terror",Wrong Turn 5: Bloodlines
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 4: Bloody Beginnings" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogAYr3SdD5j2bFRX5briSOhe0Rw.jpg" group-title="Terror",Wrong Turn 4: Bloody Beginnings
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 3: Left for Dead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84s4LMWuGbm4xPWW5PSbHyQhh33.jpg" group-title="Terror",Wrong Turn 3: Left for Dead
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn 2: Dead End" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftmiyfrTrqTi5Qod62nGRP9BGPn.jpg" group-title="Terror",Wrong Turn 2: Dead End
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wish Upon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg" group-title="Terror",Wish Upon
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="What Keeps You Alive" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHrNKFoG3XOy5oPygR90TR5nfJt.jpg" group-title="Terror",What Keeps You Alive
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="We Are Still Here" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTslO8AmYYGaFr6MCiIv3F30vWv.jpg" group-title="Terror",We Are Still Here
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victor Frankenstein" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FDcYYHd6IlKj2ZitO9ASE4GlKa.jpg" group-title="Terror",Victor Frankenstein
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Twin Peaks: The Missing Pieces" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VANUgnzAobbhYOCWvk30MbrtNx.jpg" group-title="Terror",Twin Peaks: The Missing Pieces
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Twin Peaks: Fire Walk with Me" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOQekTHJmVCgfUYXTb6dLAu6l8W.jpg" group-title="Terror",Twin Peaks: Fire Walk with Me
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Triangle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjC00Wus7IoCywVTHt68W8QxcyW.jpg" group-title="Terror",Triangle
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trench 11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIv460nXqX8T5fjwemgFOPs6DGH.jpg" group-title="Terror",Trench 11
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood Creek" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJ4yVEcP2ht2OEhknFLpAyNNCL.jpg" group-title="Terror",Blood Creek
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Toybox" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2m9g3Vhokis2fP6sufZo2esdC4.jpg" group-title="Terror",The Toybox
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Skin I Live In" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFIgRIhz3CdWDuKBqEDURV4a4Ly.jpg" group-title="Terror",The Skin I Live In
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Serpent and the Rainbow" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FcK8I3IBBndBo8gfTx1apC8DYj.jpg" group-title="Terror",The Serpent and the Rainbow
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The People Under the Stairs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQib0QxTFN8BDjpnQEeyLzfzlLU.jpg" group-title="Terror",The People Under the Stairs
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pact II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wgdW7nMRyILnt5IAvizZjEZlsA.jpg" group-title="Terror",The Pact II
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Offspring: The Offspring Complete Music Video Collection" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDPkTl1QqK42s9NSxx5oO5E2Ri7.jpg" group-title="Terror",The Offspring: The Offspring Complete Music Video Collection
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Monkey's Paw" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQ5KUWUfkQjjKQQ4BesKy3ueOjb.jpg" group-title="Terror",The Monkey's Paw
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Last Witch Hunter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke0ktdLpTyDKsMuJTyMXFVK4xej.jpg" group-title="Terror",The Last Witch Hunter
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Sharknado: It's About Time" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UvjXMdBdmf8wrYcDfi41Mt1DIY.jpg" group-title="Terror",The Last Sharknado: It's About Time
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hallow" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTkS0EuaCFefCeP1gBSRHYsaSKY.jpg" group-title="Terror",The Hallow
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The First Purge" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/litjsBoiydO6JlO70uOX4N3WnNL.jpg" group-title="Terror",The First Purge
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escape Plan: The Extractors" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r15SUgzjL8bablcdEkHk9T7TSRl.jpg" group-title="Terror",Escape Plan: The Extractors
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The End?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sx8F9NOTQ0RthZN8Baun7qGb435.jpg" group-title="Terror",The End?
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Drownsman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iiQU9RYkBJwc9SSiSPZ5FhPrz6.jpg" group-title="Terror",The Drownsman
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dead the Damned and the Darkness" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zFeCaqhkQaUC7G3yZJFBxDqAjn.jpg" group-title="Terror",The Dead the Damned and the Darkness
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Crucifixion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxTFHGcS0AJab3olU9BjABf5Ogx.jpg" group-title="Terror",The Crucifixion
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cabin in the Woods" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utfJuX6DfR28Mv2FMfnPFAYOmTU.jpg" group-title="Terror",The Cabin in the Woods
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Body Tree" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laTr3TjRlxAcQWC9syMVvSka1CL.jpg" group-title="Terror",The Body Tree
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Basement" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSdwlfxbqRtlpTbsKipoCGBkCIs.jpg" group-title="Terror",The Basement
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thanatomorphose" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EBH4OrpJrPWROoPqcURbtaUdRA.jpg" group-title="Terror",Thanatomorphose
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Texas Chainsaw 3D" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0kJOoNvwnWgmvKvL4GqlV3OPUV.jpg" group-title="Terror",Texas Chainsaw 3D
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tales from the Hood 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k93d4au1KByYKi6FsE0dLrKWowj.jpg" group-title="Terror",Tales from the Hood 2
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tales from the Darkside: The Movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IDTVLpSYGNYqLE2QnixboLOU32.jpg" group-title="Terror",Tales from the Darkside: The Movie
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Survival of the Dead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGTMVwgQqwyJxJ841MNmVzoUgRg.jpg" group-title="Terror",Survival of the Dead
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Summer of 84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPitgXPCIFh23yCEjqnCZnfhBig.jpg" group-title="Terror",Summer of 84
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Speak No Evil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMXv4kcBYvrGl8GOGhSSbeSxM8T.jpg" group-title="Terror",Speak No Evil
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skeleton Key 3: The Organ Trail" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwcEHJO8AzdsXFS9KiTzRp6X8IB.jpg" group-title="Terror",Skeleton Key 3: The Organ Trail
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sick for Toys" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kXU5KmQp56XmZG876zLU87RPqB.jpg" group-title="Terror",Sick for Toys
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shadow People" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DclkCjLsZz3IEV8hxnt9U31b7X.jpg" group-title="Terror",Shadow People
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rise of the Zombies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t36rFGJrR1KpPasCarvRAyj74YK.jpg" group-title="Terror",Rise of the Zombies
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Return of the Living Dead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vydUitzC8W8W5oNevEArCltydJ.jpg" group-title="Terror",The Return of the Living Dead
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Return of the Living Dead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vydUitzC8W8W5oNevEArCltydJ.jpg" group-title="Terror",The Return of the Living Dead
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fttmSgLEOdBNwQepW2lC6t0mbOm.jpg" group-title="Terror",Resident Evil
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Retribution" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRhi9UDgfstP9aIJTCoO9u13Q7t.jpg" group-title="Terror",Resident Evil: Retribution
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Extinction" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84s6e0V8hB87eOI5X3zVtkDboto.jpg" group-title="Terror",Resident Evil: Extinction
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Degeneration" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcduy3H9RelaER3F7jn7OGby1ws.jpg" group-title="Terror",Resident Evil: Degeneration
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Apocalypse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJFZUe1TgvUevJwg2gmSPBbvutF.jpg" group-title="Terror",Resident Evil: Apocalypse
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Afterlife" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szUA5nI2209cCQIv8iIP6tOw8Rf.jpg" group-title="Terror",Resident Evil: Afterlife
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Recovery" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27vpy8WQGQAaLAO6a2tNvYqKTW5.jpg" group-title="Terror",Recovery
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rape Zombie: Lust of the Dead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9d8jysQghAkH7o54Yh6yUsZdmAH.jpg" group-title="Terror",Rape Zombie: Lust of the Dead
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Psycho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81d8oyEFgj7FlxJqSDXWr8JH8kV.jpg" group-title="Terror",Psycho
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poltergeist" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWOPN0XBvHXFYr3RsPr74qBge2I.jpg" group-title="Terror",Poltergeist
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poltergeist" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWOPN0XBvHXFYr3RsPr74qBge2I.jpg" group-title="Terror",Poltergeist
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piranha 3DD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xua3x47piJTIRCVtVGjzXPDrbsN.jpg" group-title="Terror",Piranha 3DD
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ouija Seance: The Final Game" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMjufnP6CD7zgB3uFFeAII6pu4A.jpg" group-title="Terror",Ouija Seance: The Final Game
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ouija: Origin of Evil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzhGcMGuOxxnq9ePtQPY80Wp0BG.jpg" group-title="Terror",Ouija: Origin of Evil
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ouija House" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzIieLNegNXZRzYLGgf8pYXp74X.jpg" group-title="Terror",Ouija House
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nobody Gets Out Alive" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaiML47dxxyHGIioEnpgPPBbuTb.jpg" group-title="Terror",Nobody Gets Out Alive
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="We Are Not Alone" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cewXXXU6Nx8zvWaVrQofos0294.jpg" group-title="Terror",We Are Not Alone
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="You Shall Not Sleep" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQLzt5ENxAyzescCqmbcw1TCPeK.jpg" group-title="Terror",You Shall Not Sleep
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Night of the Demons" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWUVkyCZUSAMDLycjFoSMMhkDRu.jpg" group-title="Terror",Night of the Demons
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Still Life" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fA25cQbflQeXRka9jAtYb7BwS4J.jpg" group-title="Terror",Still Life
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Amityville Horror" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26nXjfDHGVe4bxV6lMgstnvmwce.jpg" group-title="Terror",My Amityville Horror
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miss Zombie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdmqNO560SGtJDNQVNwaImpvsED.jpg" group-title="Terror",Miss Zombie
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mara" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQDmXAef1Oc1SXci5mui2x5DJwt.jpg" group-title="Terror",Mara
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg" group-title="Terror",Mandy
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Satan's Seed" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUO63X9mY2nvzYmZYU0NYK99dd1.jpg" group-title="Terror",Satan's Seed
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lipstick" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5Ec9OkjtmOxLuNHEfQeyfqQTMj.jpg" group-title="Terror",Lipstick
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lake Placid: Legacy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBZXrR5zlGdRAXuugtUQo9D4dCp.jpg" group-title="Terror",Lake Placid: Legacy
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Krampus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27SiV4EBHcTBMz4IKANjhX5iIoX.jpg" group-title="Terror",Krampus
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kantemir" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgcd780sK0Slu8QR8hevKJ1ZD6K.jpg" group-title="Terror",Kantemir
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jessabelle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zq1Er49rSBTkytVbinH9P1RoEOb.jpg" group-title="Terror",Jessabelle
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j49G5F7dZVeGzAB8Fnc2GdzO1T.jpg" group-title="Terror",Jeepers Creepers 3
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasion of the Body Snatchers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oj0G2Zr6tQKBDOzKaLuefdeBsG.jpg" group-title="Terror",Invasion of the Body Snatchers
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Grizzly Maze" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsaKo0RL7zblIroei96vLB1ChCP.jpg" group-title="Terror",Into the Grizzly Maze
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo III" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWYfUEkExdr0SLY5L2mjnhKgE4C.jpg" group-title="Terror",Rambo III
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I, Frankenstein" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DhoIiGPXDhKHy4sjghAAOloPJM.jpg" group-title="Terror",I, Frankenstein
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Still Know What You Did Last Summer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4s1TK90tZWZj7lQ84UDJXHI9Kh.jpg" group-title="Terror",I Still Know What You Did Last Summer
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Spit on Your Grave" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hA8FfUAwBJut4MSIhR6eCF8li7.jpg" group-title="Terror",I Spit on Your Grave
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Spit on Your Grave III: Vengeance is Mine" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SnOlgrUoC5jqmgcYIM5lde5zYq.jpg" group-title="Terror",I Spit on Your Grave III: Vengeance is Mine
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am Legend" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9skUuHTFtsJznuFPwmB17ZZvq09.jpg" group-title="Terror",I Am Legend
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hostel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zF3pEs1CUbjPgioxDH4h2MEHsWl.jpg" group-title="Terror",Hostel
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hostel: Part III" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yElnsRDzujnHDHli5UuAgrCVQsT.jpg" group-title="Terror",Hostel: Part III
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hostel: Part II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRRjGgHCh6dWvRn1wSbv2VMO6JL.jpg" group-title="Terror",Hostel: Part II
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hochelaga, Land of Souls" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpH0b5NvKdkoxbv5s8tswKtNsT5.jpg" group-title="Terror",Hochelaga, Land of Souls
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="He's Out There" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/790BUqG80oOyMRmTjDINW7lepTG.jpg" group-title="Terror",He's Out There
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghosts of Darkness" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVz7Gr9HWnzXQBev3CJC8EoftHG.jpg" group-title="Terror",Ghosts of Darkness
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Final Destination" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW6JfCIWqUpIESlras0nrVy4pCl.jpg" group-title="Terror",Final Destination
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Final Destination 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4xhyjrybUGGY2p6bjrF4AO5Osl.jpg" group-title="Terror",Final Destination 5
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Final Destination 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg" group-title="Terror",Final Destination 3
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Final Destination 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tj8YJJuahzwUbdYDgydYX4Yj4Y.jpg" group-title="Terror",Final Destination 2
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="evils return" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tj8YJJuahzwUbdYDgydYX4Yj4Y.jpg" group-title="Terror",evils return
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Evil Dead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z56CMoFXOhq4zieKMsokLaiB4qE.jpg" group-title="Terror",Evil Dead
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elizabeth Harvest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiwY0z17ZqCPVSK1plvL11rSKuK.jpg" group-title="Terror",Elizabeth Harvest
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Trip to the Orphanage" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTJT9jASuhi23WlXHbcoywufzNo.jpg" group-title="Terror",A Trip to the Orphanage
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El hoyo del diablo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVOzk2CmEOfGYzZf7jcWfNNdVu2.jpg" group-title="Terror",El hoyo del diablo
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Inhabitant" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rh8mA0tm4ky9C1rOkyUmUGgC6yF.jpg" group-title="Terror",The Last Inhabitant
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Devil's Backbone" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9UizPFgoCnRCPtR0tyg2JNXY6A.jpg" group-title="Terror",The Devil's Backbone
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Rotten Link" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vG9MrGMCcJrmkOzAFIlAi730iu.jpg" group-title="Terror",The Rotten Link
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dracula: The Dark Prince" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJVm2f2KH3ZiAzxUDLwXrJAZ1A0.jpg" group-title="Terror",Dracula: The Dark Prince
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Childish Games" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKceXhxnbbEwUVXI20kSiSiA7qY.jpg" group-title="Terror",Childish Games
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devil's Gate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlguwriLf7PkG6jAzpnClkZKmHi.jpg" group-title="Terror",Devil's Gate
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m54c0mMcsQfNcRk2As2qH8Y5DQG.jpg" group-title="Terror",Devil
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Del Playa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0MnsaEdNQvXVBOUbkorcLZd6i4.jpg" group-title="Terror",Del Playa
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DeepStar Six" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3EVBDblIUNxwGd9FKTl7Jnn4rk.jpg" group-title="Terror",DeepStar Six
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dead Ringers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZGBwiWIvN9KmHaLeSS5it44G21.jpg" group-title="Terror",Dead Ringers
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darkness Reigns" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nX1PN7rAjPuziceTAgcz38lCIhT.jpg" group-title="Terror",Darkness Reigns
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark Touch" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxN3v8XxRzzkhKvAKN6eRFxIVnr.jpg" group-title="Terror",Dark Touch
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimson Peak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aukTmf7j4JBFdvqKe4z9kbhEcmw.jpg" group-title="Terror",Crimson Peak
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crazy Lake" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3qcQOlMVedWY6hYsZSVK5Igzyp.jpg" group-title="Terror",Crazy Lake
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clownhouse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MbbIwu5yo15GbHFKpRO3ZolKCl.jpg" group-title="Terror",Clownhouse
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg" group-title="Terror",The Circle
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Christine" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIFakrk7xLwiNNoiottTBN5EIwy.jpg" group-title="Terror",Christine
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Child Eater" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDCmb21umUhTzm5LLhMctqM1aRc.jpg" group-title="Terror",Child Eater
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Charismata" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGV755pSaK8VyH94RmMN8SfyheT.jpg" group-title="Terror",Charismata
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="General Cemetery" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GPDozbcV09oYRwR5X63nFoJXfR.jpg" group-title="Terror",General Cemetery
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Case 39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSyj4F1UVtAXhqSGpNCZRaBsKAJ.jpg" group-title="Terror",Case 39
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabin Fever (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSyj4F1UVtAXhqSGpNCZRaBsKAJ.jpg" group-title="Terror",Cabin Fever (2002)
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking at the Edge" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKr1wgkmgDKSuszP4aBnxPZkIF.jpg" group-title="Terror",Breaking at the Edge
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boarding School" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lun3G1IU6AYgXlXP649amULMPpv.jpg" group-title="Terror",Boarding School
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bloodwork" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e47mqwLk2rM1Z9OW8xqOwp56pp5.jpg" group-title="Terror",Bloodwork
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood Hunt" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iadl28Qj5BLtZ6WsHp9YvY73mMu.jpg" group-title="Terror",Blood Hunt
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood Fest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iy6mJ8EvVQrrSrSblK7GRYFq1Mp.jpg" group-title="Terror",Blood Fest
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Before Someone Gets Hurt" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUgoy8qSCZ5Y5pBiu5ipufvS16d.jpg" group-title="Terror",Before Someone Gets Hurt
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don't Be Afraid of the Dark" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RGZI8ZjV5u1KUlNEejvG43At4c.jpg" group-title="Terror",Don't Be Afraid of the Dark
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Backcountry" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BaNC7tNRxHq7rCTK7byXYY4lGZ.jpg" group-title="Terror",Backcountry
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amnesiac" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlUD2hY6Ss7eUqjV1X08E18EZ1h.jpg" group-title="Terror",Amnesiac
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amityville: The Awakening" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNA4jKuDdUuQUW78Pj2VoWKwlbC.jpg" group-title="Terror",Amityville: The Awakening
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Poltergeist" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejVbDQBTTfTSuiUvIa7iBmgwJt0.jpg" group-title="Terror",American Poltergeist
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Beast" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivQ9rzNV3HzGlwbWNS6bavjsOJk.jpg" group-title="Terror",American Beast
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alligator" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wZtSH9oSuhkdvG79dClQZVvctR.jpg" group-title="Terror",Alligator
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All Hallows' Eve" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh2DbCCj83krRPl3X2wYMQQLasZ.jpg" group-title="Terror",All Hallows' Eve
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h00HrZs89SL3tXB4nbkiM7BKHs.jpg" group-title="Terror",Alien
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h00HrZs89SL3tXB4nbkiM7BKHs.jpg" group-title="Terror",Alien
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Against the Night" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t28BqgsQqwsgwTge37InGTshySQ.jpg" group-title="Terror",Against the Night
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afflicted" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJeJXo3ZyEM5lpOn0kXab7TIrb6.jpg" group-title="Terror",Afflicted
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cure for Wellness" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg" group-title="Terror",A Cure for Wellness
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Christmas Horror Story" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2j7TfOmZiIpKWjHvXcqfKgOOtpw.jpg" group-title="Terror",A Christmas Horror Story
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Meters Down: Uncaged" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4z7mDmJmx23vsVg6XNWcnXb6gc.jpg" group-title="Terror",47 Meters Down: Uncaged
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHkIIkP4O0vUkSACcizOPZQIiF7.jpg" group-title="Terror",31
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="28 Weeks Later" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bElOpwpp45BGMWrMBdZAy9j3Vx7.jpg" group-title="Terror",28 Weeks Later
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zulu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43ddKmYjzNrvS7xvHVwtq03N6xP.jpg" group-title="Thriller",Zulu
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wind River" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pySivdR845Hom4u4T2WNkJxe6Ad.jpg" group-title="Thriller",Wind River
+http://158.69.127.36:25461/movie/BbCHfcsrtx/WgdwT6jWfT/5368.mp4
